@@ -1,4 +1,4 @@
-# Deutshe-Back-Financial-Performance-Dashboard
+# Deutshe-Bank-Financial-Performance-Dashboard
 This project features a comprehensive Excel-based Financial Performance Dashboard designed to present and analyze key financial fundamentals of Deutsche Bank over three consecutive fiscal years: 2015, 2016, and first quater of 2017.
 The dashboard consolidates critical metrics into a clear, visually intuitive format, enabling quick insights into the bank’s overall performance trends.
 
