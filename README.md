@@ -63,12 +63,6 @@ Based on the visualized financial data, several observations can be made:
 
 5.] Overall, Deutsche Bank demonstrates a mixed financial performance during the observed timeline, with room for strategic enhancements.
 
-📂 Project Structure
-.
-├── dataset/             # Financial performance data
-├── dashboard/           # Excel dashboard file
-└── README.md            # Project documentation
-
 🤝 Contributing
 
 Suggestions and contributions are welcome!
